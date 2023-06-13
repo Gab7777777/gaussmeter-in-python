@@ -11,8 +11,7 @@ pkg update
 pkg install termux-api
 
 
-A tool for understanding and quantifying magnetic fields, allowing measurements and analysis.
-It can be used to measure the strength of magnetic fields in various applications, such as in scientific research, industrial processes and cybersecurity assesments:
+A tool for understanding and quantifying magnetic fields, allowing measurements and analysis. It can be used to measure it's strenght to be used in various applications, such as industrial processes and cybersecurity assesments:
 
 Electromagnetic Interference (EMI) Detection: In cybersecurity, electromagnetic radiation and interference can have implications for the security and integrity of electronic devices and systems. A gaussmeter can be used to detect and measure electromagnetic fields emitted by electronic devices, power lines, or other sources that may cause interference or compromise the security of sensitive data.
 
