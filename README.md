@@ -5,7 +5,9 @@ Make sure that the mg0.py script is present in the same directory as the main sc
 The script relies on the subprocess module, which is a standard Python library and does not require any additional installations. However, if you encounter any import errors related to subprocess, it usually indicates a problem with your Python installation.
 
 To be run using the termux-sensor utility
+
 pkg update
+
 pkg install termux-api
 
 
