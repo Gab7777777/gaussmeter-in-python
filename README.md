@@ -1,5 +1,14 @@
 # gaussmeter-in-python
 Magnetic field sensor, readings in microteslas (µT), designed for the mobile sensor mag-akm09918.
+
+Make sure that the mg0.py script is present in the same directory as the main script, or you provide the correct path to the mg0.py script in the command variable.
+The script relies on the subprocess module, which is a standard Python library and does not require any additional installations. However, if you encounter any import errors related to subprocess, it usually indicates a problem with your Python installation.
+
+To be run using the termux-sensor utility
+pkg update
+pkg install termux-api
+
+
 A tool for understanding and quantifying magnetic fields, allowing measurements and analysis.
 It can be used to measure the strength of magnetic fields in various applications, such as in scientific research, industrial processes and cybersecurity assesments such as:
 
